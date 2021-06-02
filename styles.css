@@ -18,9 +18,10 @@
   
   
   .project-6-wrapper{
-    width: 100%;
+    width:600px;
+    margin-left:150px;
     height: 400px;
-    background-color:orange;
+   
   }
   
   .counter-box-wrapper{
