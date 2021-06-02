@@ -1,5 +1,5 @@
 .project-6-page-wrapper{
-    background-color: grey;
+  
     display: flex;
     justify-content: center;
     align-content: center;
@@ -12,7 +12,7 @@
     margin-bottom: 10px;
     border: 1px solid;
     text-align: center;
-    color: blue;
+    color: black;
     font-family:sans-serif;
   }
   
@@ -24,7 +24,7 @@
   }
   
   .counter-box-wrapper{
-    width: auto;
+    width: 600px;
     margin: 50px;
     height: 300px;
     background-color: rgb(192, 166, 137);
